@@ -1,6 +1,6 @@
-<!-- LOGO WITH SUBTLE HOVER -->
+<!-- LOGO FULL SIZE -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MASTER-404/MASTER-404/main/logo.png" width="180" style="border-radius:20px; transition: all 0.4s ease;" onmouseover="this.style.transform='rotate(5deg) scale(1.05)';" onmouseout="this.style.transform='rotate(0deg) scale(1)';"/>
+  <img src="https://raw.githubusercontent.com/MASTER-404/MASTER-404/main/logo.png" width="300" style="border-radius:20px; transition: all 0.4s ease;" onmouseover="this.style.transform='rotate(5deg) scale(1.05)';" onmouseout="this.style.transform='rotate(0deg) scale(1)';"/>
 </p>
 
 <!-- NAME BANNER -->
@@ -18,13 +18,13 @@
 ## 🧩 Featured Projects
 <p align="center">
   <a href="https://github.com/MASTER-404/YouTube-Bot">
-    <img src="https://img.shields.io/badge/YouTube%20Uploader-BOT-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=black"/>
+    <img src="https://img.shields.io/badge/YouTube-BOT-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=black" height="25"/>
   </a>
   <a href="https://github.com/MASTER-404/Telegram-Bot">
-    <img src="https://img.shields.io/badge/Telegram%20BOT-Automation-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=black"/>
+    <img src="https://img.shields.io/badge/Telegram-BOT-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=black" height="25"/>
   </a>
   <a href="https://github.com/MASTER-404/Web-Projects">
-    <img src="https://img.shields.io/badge/Web%20Projects-Frontend-38BDF8?style=for-the-badge&logo=html5&logoColor=white&labelColor=black"/>
+    <img src="https://img.shields.io/badge/Web-Frontend-38BDF8?style=for-the-badge&logo=html5&logoColor=white&labelColor=black" height="25"/>
   </a>
 </p>
 
@@ -32,17 +32,17 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,git,github,vscode,react,tailwind&theme=light" style="transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,git,github,vscode,react,tailwind&theme=light" height="30" style="transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
 </p>
 
 ---
 
 ## 🌐 Social Matrix
 <p align="center">
-  <a href="https://facebook.com/Abdulhakimbd16"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=white"/></a>
-  <a href="https://instagram.com/Abdulhakimbd16"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=white"/></a>
-  <a href="https://github.com/MASTER-404"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=white"/></a>
-  <a href="https://t.me/AbdulHakimbd0"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=white"/></a>
+  <a href="https://facebook.com/Abdulhakimbd16"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=white" height="25"/></a>
+  <a href="https://instagram.com/Abdulhakimbd16"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=white" height="25"/></a>
+  <a href="https://github.com/MASTER-404"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=white" height="25"/></a>
+  <a href="https://t.me/AbdulHakimbd0"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=white" height="25"/></a>
 </p>
 
 ---
@@ -54,11 +54,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MASTER-404&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MASTER-404&theme=react-dark&hide_border=true" height="120"/>
 </p>
 
 ---
 
 <p align="center">
-  ⚡ <b>MASTER-404 — Code Beyond Limits & Automation Mastery</b> ⚡
+  ⚡ <b>MASTER-404 — Full Size Logo & Professional Profile</b> ⚡
 </p>
